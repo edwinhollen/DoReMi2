@@ -1,41 +1,48 @@
 
 packed.png
-size: 128,512
+size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 female
   rotate: false
-  xy: 2, 2
+  xy: 122, 2
   size: 33, 235
   orig: 33, 235
   offset: 0, 0
   index: -1
 flat_left
   rotate: false
-  xy: 65, 239
+  xy: 157, 2
   size: 33, 235
   orig: 33, 235
   offset: 0, 0
   index: -1
 flat_right
   rotate: false
-  xy: 37, 2
+  xy: 192, 2
   size: 33, 235
   orig: 33, 235
   offset: 0, 0
   index: -1
 male
   rotate: false
-  xy: 2, 239
+  xy: 2, 2
   size: 61, 235
   orig: 61, 235
   offset: 0, 0
   index: -1
 middle
   rotate: false
-  xy: 100, 239
+  xy: 227, 2
   size: 24, 235
   orig: 24, 235
+  offset: 0, 0
+  index: -1
+notehead
+  rotate: false
+  xy: 65, 199
+  size: 55, 38
+  orig: 55, 38
   offset: 0, 0
   index: -1

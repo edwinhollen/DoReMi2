@@ -18,7 +18,7 @@ class Game() : ApplicationAdapter() {
 
     override fun create() {
         batch = SpriteBatch();
-        viewport = FitViewport(800f, 600f);
+        viewport = FitViewport(2560f, 1440f);
 
         changeStage(::GameStage);
     }
